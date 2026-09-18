@@ -195,3 +195,23 @@ Data Analysis
 Interactive Visualizations
    ↓
 Business Insights
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+### Customer Analytics
+![Customer Analytics](Customer%20Analytics.png)
+
+### Restaurant Performance
+![Restaurant Performance](Restaurant%20Performance.png)
+
+### Delivery & Operations
+![Delivery & Operations](Delivery%20and%20Operations.png)
+
+### Advanced Insights
+![Advanced Insights](Advanced%20Insights.png)
+
+### Restaurant Details
+![Restaurant Details](Restaurants%20Details.png)
